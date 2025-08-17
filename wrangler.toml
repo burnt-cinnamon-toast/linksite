@@ -1,0 +1,11 @@
+name = "linkinbio"
+main = "src/worker.js"
+compatibility_date = "2025-08-17"
+
+[vars]
+BRAND_TITLE = "Sir... links"
+BRAND_TAGLINE = "One page to rule them all"
+AVATAR_URL = "https://example.com/avatar.jpg"
+ACCENT = "#6EE7B7"   # Tail color... hex only
+BG = "#0B0F14"       # Page background
+TEXT = "#E5E7EB"     # Body text
